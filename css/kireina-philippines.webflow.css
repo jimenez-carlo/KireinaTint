@@ -810,6 +810,13 @@ body {
 }
 
 @media screen and (max-width: 479px) {
+  .section-secondary{
+    padding: 8em 0em;
+  }
+  .content{
+    padding: 0px 10px;
+
+  }
   .slider {
     min-height: 100vh;
   }
